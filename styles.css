@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+  --primary: #353535;
+}
+
+body {
+  background: linear-gradient(rgba(0, 0, 0, 1), rgba(150, 70, 0, 0.6) 80%),
+    url("https://image.freepik.com/free-vector/abstract-colorful-flow-shapes-background_23-2148245899.jpg")
+      center / cover no-repeat;
+  height: 100vh;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  background-color: var(--primary);
+  width: 40%;
+  padding: 10px;
+  border-radius: 5px;
+  position: relative;
+}
+img {
+  width: 100%;
+}
+.slide {
+  display: none;
+}
+.active {
+  display: block;
+}
+.controller {
+  border-radius: 5px;
+  border: 2px solid white;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 10px 15px;
+  background-color: var(--primary);
+  color: white;
+  position: absolute;
+}
+.left {
+  left: -15px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.right {
+  right: -15px;
+  top: 50%;
+  transform: translateY(-50%);
+}
