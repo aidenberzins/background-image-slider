@@ -11,18 +11,21 @@ const images = [
     "https://images.unsplash.com/photo-1499084732479-de2c02d45fcc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
     "boy sitting looking at the night sky"
   ],
-  ["https://cdn2.hercampus.com/hero-images/2019/10/09/18519%202.jpg", "text"],
   [
-    "https://helpx.adobe.com/content/dam/help/en/stock/how-to/visual-reverse-image-search/jcr_content/main-pars/image/visual-reverse-image-search-v2_intro.jpg",
+    "https://cdn2.hercampus.com/hero-images/2019/10/09/18519%202.jpg",
     "girl looking up at the night sky with the outline of birds in the background"
   ],
   [
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCY226163yr291rPEAKy-8WINLovlFGWnu-TyJxRz7LqJLtZyH",
+    "https://helpx.adobe.com/content/dam/help/en/stock/how-to/visual-reverse-image-search/jcr_content/main-pars/image/visual-reverse-image-search-v2_intro.jpg",
     "butterfly"
   ],
   [
-    "https://www.geek.com/wp-content/uploads/2019/12/baby-yoda-625x351.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCY226163yr291rPEAKy-8WINLovlFGWnu-TyJxRz7LqJLtZyH",
     "picture of fairytale prince and princess"
+  ],
+  [
+    "https://www.geek.com/wp-content/uploads/2019/12/baby-yoda-625x351.jpg",
+    "Baby yoda drinking tea"
   ]
 ];
 
